@@ -13,7 +13,8 @@
     <description>Little app to recursively search and add files to Git repositories following simple include and exclude rules</description>
     <releaseNotes></releaseNotes>
     <copyright>2015 Jordan Knight available under MS-PL (http://opensource.org/licenses/MS-PL)
-</copyright>
+		Uses and includes https://github.com/libgit2/libgit2sharp
+	</copyright>
     <tags>GIT Missing Add Xamling</tags>
     <dependencies>
 	   <dependency id="LibGit2Sharp" version="0.21.0.176" />       
