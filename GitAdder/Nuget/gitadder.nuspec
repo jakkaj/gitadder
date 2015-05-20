@@ -17,7 +17,7 @@
 	</copyright>
     <tags>GIT Missing Add Xamling</tags>
     <dependencies>
-	   <dependency id="LibGit2Sharp" version="0.21.0.176" />       
+	  
     </dependencies>
   </metadata>
 </package>
