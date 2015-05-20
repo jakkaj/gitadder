@@ -14,7 +14,7 @@
     <releaseNotes></releaseNotes>
     <copyright>2015 Jordan Knight available under MS-PL (http://opensource.org/licenses/MS-PL)
 </copyright>
-    <tags>GIT Missing Add</tags>
+    <tags>GIT Missing Add Xamling</tags>
     <dependencies>
 	   <dependency id="LibGit2Sharp" version="0.21.0.176" />       
     </dependencies>
