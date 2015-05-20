@@ -11,9 +11,17 @@ namespace GitAdder
         static void Main(string[] args)
         {
             var g = new GitBits();
-            g.Scan();
+            var added = g.Scan();
 
-            Console.ReadKey();
+            if (added)
+            {
+                Console.WriteLine("Press the any key to continue...");
+                Console.ReadKey();
+            }
+            else
+            {
+                Console.WriteLine("Nothing found to add :)");
+            }
         }
     }
 }
